@@ -11,4 +11,4 @@
 
 GitHub Stats
 [![simpleskyline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simpleskyline&show_icons=true&theme=radical)](https://github.com/simpleskyline/github-readme-stats)
-[![simpleskyline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simpleskyline&show_icons=true&theme=radical)](https://github.com/simpleskyline/github-readme-stats)
+
