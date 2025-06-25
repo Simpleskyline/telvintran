@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 
 GitHub Stats
-[![Telvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackrookie&show_icons=true&theme=radical)](https://github.com/fullstackrookie/github-readme-stats)
+[![Telvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstackrookie&show_icons=true&theme=radical)](https://github.com/Simpleskyline/github-readme-stats)
