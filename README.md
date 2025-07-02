@@ -1,3 +1,10 @@
+As an aspiring software engineer with a strong focus on backend development.
+My skill set is grounded in designing and implementing APIs, managing data flows, and ensuring seamless integration between application layers. 
+I have hands-on experience working with relational databases like MySQL and PostgreSQL, and I am proficient in writing optimized SQL queries, designing normalized schemas, and maintaining data integrity.
+
+
+
+
 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
