@@ -18,5 +18,5 @@ I have hands-on experience working with relational databases like MySQL and Post
 GitHub Stats
 [![simpleskyline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simpleskyline&show_icons=true&theme=radical)](https://github.com/simpleskyline/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleskyline&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleskyline&layout=compact&theme=tokyonight)
 
