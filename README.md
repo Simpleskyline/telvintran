@@ -15,7 +15,7 @@ I have hands-on experience working with relational databases like MySQL and Post
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 
-GitHub Stats
+
 [![simpleskyline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simpleskyline&show_icons=true&theme=radical)](https://github.com/simpleskyline/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleskyline&layout=compact&theme=tokyonight)
