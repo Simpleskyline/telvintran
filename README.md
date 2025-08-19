@@ -3,8 +3,11 @@ I am aspiring to apply engineering principles and programming skills to solve pr
 Progressing on:
 
 Java – Spring Boot framework
+
 Python – Django, Flask (fast prototyping & APIs)
+
 JavaScript (Node.js) – scalable APIs
+
 PHP – Laravel (content-heavy sites)
 
 
@@ -13,6 +16,7 @@ PHP – Laravel (content-heavy sites)
 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
