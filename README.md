@@ -1,6 +1,7 @@
 A systems developer with a motive in professionally designing, developing, testing, and maintaining software systems and applications.
 I am aspiring to apply engineering principles and programming skills to solve problems, create efficient solutions, and ensure software is reliable, scalable, and secure.
-Progressing on:
+
+I am currently sharpening on:
 
 Java – Spring Boot framework
 
