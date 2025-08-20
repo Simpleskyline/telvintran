@@ -39,3 +39,6 @@ PHP – Laravel (content-heavy sites)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleskyline&layout=compact&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=skyline&color=blue)
+
+
