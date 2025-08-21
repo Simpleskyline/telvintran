@@ -1,5 +1,6 @@
-💻 Aspiring Systems Developer
-I’m passionate about low-level programming, operating systems, and high-performance software. Currently building my skills in Java, JavaScript, and Python, with a strong interest in:
+💻 Hi, I am an aspiring Systems Developer
+   I’m passionate about low-level programming, operating systems, and high-performance software. 
+   Currently building my skills in Java, JavaScript, and Python, with a strong interest in:
 
 🔧 Systems programming & OS development
 
