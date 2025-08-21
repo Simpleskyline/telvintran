@@ -1,5 +1,7 @@
 💻 Hi, I am an aspiring back-end developer with a growing foundation in software engineering, cloud/server management, and academic computer science concepts.
+
 I am comfortable with Linux environments, Git workflows, and server-side debugging, and I enjoy applying academic knowledge (OOP, SDLC, algorithms) to practical projects. 
+
 I am continuously expanding my expertise in backend development, system design, and cloud/server deployment.
 
 🔧 Systems programming & OS development
