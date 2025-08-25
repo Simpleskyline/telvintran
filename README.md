@@ -1,4 +1,4 @@
-💻 Hi, I am an aspiring back-end developer with a growing foundation in software engineering, cloud/server management, and academic computer science concepts.
+💻 Hi, I am an aspiring software engineer/developer with a growing foundation in software engineering, cloud/server management, and academic computer science concepts.
 
 I am comfortable with Linux environments, Git workflows, and server-side debugging, and I enjoy applying academic knowledge (OOP, SDLC, algorithms) to practical projects. 
 
