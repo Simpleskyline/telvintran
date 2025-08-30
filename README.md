@@ -1,16 +1,14 @@
-💻 Hi, I am an aspiring software engineer/developer with a growing foundation in software engineering, cloud/server management, and academic computer science concepts.
+💻 Hi, I am an aspiring software engineer/developer with a growing foundation in:
+
+      - software engineering
+      
+      - cloud/server management
 
 I am continuously expanding my expertise in backend development, system design, and cloud/server deployment.
 
-🔧 Systems programming & OS development
+---
 
-⚡ Performance optimization & real-time systems
-
-🖥️ Embedded systems & cloud infrastructure
-
-📚 Continuous learning in computer science fundamentals
-
-I aim to specialize in systems engineering, creating efficient, reliable, and scalable software that powers real-world applications. 
+I aim to specialize in systems engineering 🔧 and creating efficient, reliable, and scalable software 🖥️ that powers real-world applications. 
 
 ---
 
