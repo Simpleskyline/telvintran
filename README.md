@@ -1,16 +1,18 @@
-💻 Hi, I am an aspiring software engineer/developer with a growing foundation in:
+**💻 Aspiring Software Engineer | Backend Development | Cloud & Systems Engineering**
 
-      - software engineering
-      
-      - cloud/server management
+I’m building a strong foundation in software engineering, backend development, and cloud/server management. 
 
-I am continuously expanding my expertise in backend development, system design, and cloud/server deployment.
+My focus is on leveraging my skillset in designing and deploying scalable, reliable, and efficient systems that power real-world applications.
 
----
+🔧 Areas of interest:
 
-I aim to specialize in systems engineering 🔧 and creating efficient, reliable, and scalable software 🖥️ that powers real-world applications. 
+Systems Engineering & Architecture
 
----
+Backend Development & APIs
+
+Cloud/Server Deployment & Management
+
+📈 Continuously learning and evolving to bridge the gap between software design and system infrastructure.
 
 🛠️ Languages and Tools
 
