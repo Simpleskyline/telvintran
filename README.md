@@ -1,7 +1,12 @@
 **💻 Aspiring Software Engineer - Application | Systems Engineer**
 
+---
+
 I’m building a strong foundation in sapplications and systems engineering.
 My focus is on leveraging my skillset in designing and deploying scalable, reliable, and efficient systems that power real-world applications.
+I am 📈 Continuously learning and evolving to bridge the gap between software design and system infrastructure.
+
+---
 
 🔧 Areas of interest:
 
@@ -11,7 +16,7 @@ Backend Development & APIs - PYTHON (Django, Flask)
 
 Cloud/Server Deployment & Management - (MYSQL, SQLITE, MONGODB)
 
-📈 Continuously learning and evolving to bridge the gap between software design and system infrastructure.
+---
 
 🛠️ Languages and Tools
 
