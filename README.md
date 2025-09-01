@@ -2,7 +2,7 @@
 
 ---
 
-I’m building a strong foundation in sapplications and systems engineering.
+I’m building a strong foundation in applications and systems engineering.
 My focus is on leveraging my skillset in designing and deploying scalable, reliable, and efficient systems that power real-world applications.
 I am 📈 Continuously learning and evolving to bridge the gap between software design and system infrastructure.
 
