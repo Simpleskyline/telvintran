@@ -1,16 +1,15 @@
-**💻 Aspiring Software Engineer | Backend Development | Cloud & Systems Engineering**
+**💻 Aspiring Software Engineer - Application | Systems Engineer**
 
-I’m building a strong foundation in software engineering, backend development, and cloud/server management. 
-
+I’m building a strong foundation in sapplications and systems engineering.
 My focus is on leveraging my skillset in designing and deploying scalable, reliable, and efficient systems that power real-world applications.
 
 🔧 Areas of interest:
 
-Systems Engineering & Architecture
+Systems Engineering & Architecture - GO
 
-Backend Development & APIs
+Backend Development & APIs - PYTHON (Django, Flask)
 
-Cloud/Server Deployment & Management
+Cloud/Server Deployment & Management - (MYSQL, SQLITE, MONGODB)
 
 📈 Continuously learning and evolving to bridge the gap between software design and system infrastructure.
 
