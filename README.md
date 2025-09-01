@@ -14,7 +14,7 @@ Systems Engineering & Architecture - GO
 
 Backend Development & APIs - PYTHON (Django, Flask)
 
-Cloud/Server Deployment & Management - (MYSQL, SQLITE, MONGODB)
+Database Management - (MYSQL / SQLITE, MONGODB)
 
 ---
 
