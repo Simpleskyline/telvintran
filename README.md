@@ -10,7 +10,7 @@ I am 📈 Continuously learning and evolving to bridge the gap between software 
 
 🔧 Areas of interest:
 
-Systems Engineering & Architecture - GO
+Systems Engineering & Architecture - GO (I am still in the learning phase of GO)
 
 Backend Development & APIs - PYTHON (Django, Flask)
 
