@@ -12,6 +12,8 @@ I am 📈 Continuously learning and evolving to bridge the gap between software 
 
 Systems Engineering & Architecture - GO (I am still in the learning phase of GO)
 
+Fontend Development - HTML & CSS
+
 Backend Development & APIs - PYTHON (Django, Flask)
 
 Database Management - (MYSQL / SQLITE, MONGODB)
