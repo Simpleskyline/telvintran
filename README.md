@@ -14,7 +14,7 @@ Systems Engineering & Architecture - GO (I am still in the learning phase of GO)
 
 Fontend Development - HTML & CSS
 
-Backend Development & APIs - PYTHON (Django, Flask)
+Backend Development & APIs - PYTHON,JAVA(Flask, Spring)
 
 Database Management - (MYSQL / SQLITE, MONGODB)
 
